@@ -22,7 +22,7 @@ fun main() {
 //
 //fun main() {
 //    val s1 = Student("Ron", "Weasley", "Gryffindor")
-//    val s2 = Student(lastName = "Malfoy", firstName = "Draco", year = 1, house = "fjffj") // не передан аргумент для параметра house
+//    val s2 = Student(lastName = "Malfoy", firstName = "Draco", year = 1) // не передан аргумент для параметра house
 //    val s3 = s1.copy(firstName = "Fred")
 //    s3.year = 3 // переменная  s3 не может быть изменена, т.к. val
 //    val s4 = s3.copy(firstName = "George")
